@@ -1,0 +1,10 @@
+#!/bin/bash
+
+# Path to the main folder containing wordlists and subfolders
+main_folder="/home/kali/Desktop/Wordlist/SecLists-master/Passwords"
+
+# The output file name
+output_file="/home/kali/Desktop/Wordlist/combined_wordlist.txt"
+
+# To find all .txt files recursively in the main folder and its subfolders, then concatenate them into a single file
+find "$main_folde
