@@ -5,7 +5,7 @@ This Bash script is designed to consolidate multiple text files with a '.txt' ex
 
 # Usage
 ```
-./collectall.sh -f /SecLists-master -o Combined.txt
+$ ./collectall.sh -f /SecLists-master -o Combined.txt
 
    █████████           ████  ████                     █████      █████████   █████       █████         
   ███░░░░░███         ░░███ ░░███                    ░░███      ███░░░░░███ ░░███       ░░███          
