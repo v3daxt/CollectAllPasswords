@@ -15,7 +15,7 @@ This Bash script is designed to consolidate multiple text files with a '.txt' ex
 ░░███     ███░███ ░███ ░███  ░███ ░███ ░███░███  ███  ░███ ███ ░███    ░███  ░███      █ ░███      █   
  ░░█████████ ░░██████  █████ █████░░██████ ░░██████   ░░█████  █████   █████ ███████████ ███████████   
   ░░░░░░░░░   ░░░░░░  ░░░░░ ░░░░░  ░░░░░░   ░░░░░░     ░░░░░  ░░░░░   ░░░░░ ░░░░░░░░░░░ ░░░░░░░░░░░    
-                                                                                          By v3daxt "
+                                                                                          By v3daxt 
     Options:
     -f   Specify the main folder containing wordlists and subfolders."
     -o   Specify the output file name."
